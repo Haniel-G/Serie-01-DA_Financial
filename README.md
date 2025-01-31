@@ -13,8 +13,10 @@ This project is primarily for demonstration purposes and does not necessarily re
 
 ## Project Structure
 
+- `BaseFinanceiro/`: Folder containing the database files.
 - `AnaliseBaseFinancero.ipynb`: Jupyter Notebook containing the exploratory data analysis.
-- `Financero.xlsx`: Financial dataset.
+- `LICENSE`: License terms.
+- `README.md`: Project description.
 - `requirements.txt`: List of project dependencies.
 
 ---
@@ -53,4 +55,3 @@ This project is primarily for demonstration purposes and does not necessarily re
 ## Licence
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE).
 
-# ***Até mais!!👋🏽***
