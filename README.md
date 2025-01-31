@@ -22,9 +22,9 @@ This project is primarily for demonstration purposes and does not necessarily re
 ## Technologies
 
 - Python 3.13.0
-- Jupyter v2024.11.0 (VSCode Extension)
-- Excel Viewer (VSCode Extension)
-- VSCode  
+- Jupyter v2024.11.0 (vscode extension)
+- Excel Viewer (vscode extension)
+- vscode  
 (Refer to `requirements.txt` for more details)
 
 ---
