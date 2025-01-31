@@ -24,9 +24,9 @@ This project is primarily for demonstration purposes and does not necessarily re
 ## Technologies
 
 - Python 3.13.0
-- Jupyter v2024.11.0 (VSCode Extension)
-- Excel Viewer (VSCode Extension)
-- VSCode  
+- Jupyter v2024.11.0 (vscode extension)
+- Excel Viewer (vscode extension)
+- vscode  
 (Refer to `requirements.txt` for more details)
 
 ---
@@ -35,7 +35,7 @@ This project is primarily for demonstration purposes and does not necessarily re
 
 1. Clone this repository:
     ```bash
-    git clone git clone https://github.com/Haniel-G/AD_FINANCIERO.git
+    git clone https://github.com/Haniel-G/Serie-01-DA_Financial.git
     ```
 
 2. Create and activate a virtual environment in the desired location:
