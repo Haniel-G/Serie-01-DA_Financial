@@ -33,7 +33,7 @@ This project is primarily for demonstration purposes and does not necessarily re
 
 1. Clone this repository:
     ```bash
-    git clone git clone https://github.com/Haniel-G/AD_FINANCIERO.git
+    git clone https://github.com/Haniel-G/Serie-01-DA_Financial.git
     ```
 
 2. Create and activate a virtual environment in the desired location:
