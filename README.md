@@ -52,6 +52,6 @@ This project is primarily for demonstration purposes and does not necessarily re
 
 4. Open and run the AnaliseBaseFinancero.ipynb file.
 
-## Licence
+## License
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE).
 
