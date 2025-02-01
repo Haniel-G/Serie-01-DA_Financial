@@ -15,6 +15,7 @@ This project is primarily for demonstration purposes and does not necessarily re
 
 - `BaseFinanceiro/`: Folder containing the database files.
 - `AnaliseBaseFinancero.ipynb`: Jupyter Notebook containing the exploratory data analysis.
+- `AnaliseBaseFinanceiro.py`: Script usado no Jupyter Notebook.
 - `LICENSE`: License terms.
 - `README.md`: Project description.
 - `requirements.txt`: List of project dependencies.
